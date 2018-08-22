@@ -37,6 +37,7 @@
 # 몇 가지 사족 
 
 * 제발 엑셀로 문서 만드시는 분들은 장식 좀 하지 마라! 엑셀은 계산이나 쿼리를 위한 도구지 비주얼 툴이 아니다. 
+	* [이 아티클](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989) 숙독을 권장한다. 
 * 어떤 레코드를 넣을 때 앞에 어떻게 표기되어 있는지 확인하시고 넣으시라. 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTM4NDA3MzAxNywtNjU0Mzk1NDI3LC04MD
