@@ -1,6 +1,6 @@
 # korparty_subsidy
 
-[Jun Sok Huhh](anarinsk@gmail.com)
+[Jun Sok Huhh](mailto:anarinsk@gmail.com)
 
 #  문서의 목적 
 
@@ -34,5 +34,5 @@
 * 제발 엑셀로 문서 만드시는 분들은 장식 좀 하지 마라. 엑셀은 계산이나 쿼리를 위한 도구지 비주얼 툴이 아니다. 
 * 어떤 레코드를 넣을 때 앞에 어떻게 표기되어 있는지 확인하시고 넣으시라. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzQ4Njg3MCw5MzQzMjkzMTNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTM1ODE1OTgsOTM0MzI5MzEzXX0=
 -->
