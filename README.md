@@ -41,6 +41,6 @@
 * 어떤 레코드를 넣을 때 앞에 어떻게 표기되어 있는지 확인하시고 넣으시라.
 	* 장식하신다고 "정당 보조금"을 엑셀에서 줄을 바꿔서 "정    당 \n 보  조  금"이라고 넣으시면 대략 좌절... 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDA3MzAxNywtNjU0Mzk1NDI3LC04MD
-I0Nzg4LDkzNDMyOTMxM119
+eyJoaXN0b3J5IjpbMzc3NTUxNDMyLDEzODQwNzMwMTcsLTY1ND
+M5NTQyNywtODAyNDc4OCw5MzQzMjkzMTNdfQ==
 -->
