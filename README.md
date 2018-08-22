@@ -10,7 +10,7 @@
 
 # 분석 내용 
 
-[read_EDA.ipynb](https://github.com/anarinsk/korparty_subsidy/blob/master/read_EDA.ipynb)
+[Jupyter notebook](http://nbviewer.jupyter.org/github/anarinsk/korparty_subsidy/blob/master/read_EDA.ipynb)
 
 # 코드 해설 
 
