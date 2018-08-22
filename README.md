@@ -8,7 +8,9 @@
 * 저는 선거 지원금 제도에 대해서 아는 바가 거의 없습니다. 잘못 처리된 부분이 있거나 오해가 있으면 알려주시면 수정하도록 하겠습니다. 
 * 이하는 반말로 전개됩니다. 
 
-# 분
+# 분석 내용 
+
+[read_EDA.ipynb](https://github.com/anarinsk/korparty_subsidy/blob/master/read_EDA.ipynb)
 
 # 코드 해설 
 
@@ -37,6 +39,6 @@
 * 제발 엑셀로 문서 만드시는 분들은 장식 좀 하지 마라! 엑셀은 계산이나 쿼리를 위한 도구지 비주얼 툴이 아니다. 
 * 어떤 레코드를 넣을 때 앞에 어떻게 표기되어 있는지 확인하시고 넣으시라. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MzcxNjE2LC02NTQzOTU0MjcsLTgwMj
-Q3ODgsOTM0MzI5MzEzXX0=
+eyJoaXN0b3J5IjpbMTM4NDA3MzAxNywtNjU0Mzk1NDI3LC04MD
+I0Nzg4LDkzNDMyOTMxM119
 -->
