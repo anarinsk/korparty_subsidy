@@ -1,11 +1,8 @@
-Party Subsidy by National Election Commision
+**Party Subsidy by National Election Commission**
 
 2018-08-30
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
-# korparty_subsidy
-
-[Jun Sok Huhh](mailto:anarinsk@gmail.com)
 
 #  분석 목적 
 
