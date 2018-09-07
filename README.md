@@ -1,7 +1,8 @@
 **Party Subsidy by National Election Commission**
 
-2018-08-30
+2018-08-23
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
+
 
 
 #  분석 목적 
