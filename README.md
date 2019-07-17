@@ -1,9 +1,11 @@
-**Party Subsidy by National Election Commission**
+**P# korparty S_subsidy by National Election Commission**
 
 2018-08-23
 Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 &nbsp;
+
+[Jun Sok Huhh](mailto:anarinsk@gmail.com)
 
 #  분석 목적 
 
@@ -19,18 +21,18 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 코드가 몹시 간략함으로 자세한 해설은 생략한다. 
 
-1. python: 선관위 엑셀 자료를 시트 단위로 뜯어내서 tidy data로. 
+1. python: 선관위 엑셀 자료를 시트 단위로 뜯어내서 tidy data로로 만든다. 
 2.  R: ggplot2로 시각화 한다. 
 
 ## What is Tidied 
 
 * 정리된 데이터는 4 컬럼으로 구성되어 있다. 
 	1. year: 연도 
-	2. type: 지원금 종류 
-	3. party: 정당 
+	2.  type: 지원금 종류 
+	3.  party: 정당 
 	4. subsidy: 지원액 
 * 정당을 좌/우/중도로 나누어 보는 것이 나의 목적이었기 때문에 2001년부터 기록된 정당을 분류할 필요가 있다. 
-	* 이를 위해 `DF_info`라는 pandas 테이블을 하나 만들었다. 한글 위키에 기반해 만든 자료이고, 혹시 잘못 분류한 내용이 있다면 알아서 고쳐 쓰시라. 
+	* 이를 위해내부에서 `DF_info`라는 pandas 테이블을 하나 만들었다. 한글 위키에 기반해 만든 자료이고, 혹시 잘못 분류한 내용이 있다면 알아서 고쳐 쓰시라. 
 
 ## python + R 
 
@@ -49,7 +51,8 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODc1NjM2NywtNjE1MjM4MjksLTgyND
-Y3MTA2NSwtNjE1MjM4MjksMzc3NTUxNDMyLDEzODQwNzMwMTcs
-LTY1NDM5NTQyNywtODAyNDc4OCw5MzQzMjkzMTNdfQ==
+eyJoaXN0b3J5IjpbLTYxMjkwMDM3OCwtMzc4NzU2MzY3LC02MT
+UyMzgyOSwtODI0NjcxMDY1LC02MTUyMzgyOSwzNzc1NTE0MzIs
+MTM4NDA3MzAxNywtNjU0Mzk1NDI3LC04MDI0Nzg4LDkzNDMyOT
+MxM119
 -->
